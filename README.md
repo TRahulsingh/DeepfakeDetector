@@ -4,9 +4,9 @@ A state-of-the-art deepfake detection system built with PyTorch and EfficientNet
 
 ## ⚙️ Created By
 
--  https://github.com/TRahulsingh/
--  https://github.com/Mallikarjun-Macherla/
--  https://github.com/sainathch45/
+- 👨‍💻 [T RAHUL SINGH](https://github.com/TRahulsingh)
+- 🧑‍💻 [Mallikarjun Macherla](https://github.com/Mallikarjun-Macherla)
+- 🧑‍💻 [Prakash Madasu](https://github.com/sainathch45/)
 
 ---
 
@@ -30,8 +30,8 @@ A state-of-the-art deepfake detection system built with PyTorch and EfficientNet
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Macherla-Mallikarjun/deepfake-detection.git
-   cd deepfake-detection
+   git clone https://github.com/TRahulsingh/DeepfakeDetector.git
+   cd DeepfakeDetector
    ```
 
 2. **Install dependencies:**
