@@ -6,7 +6,7 @@ A state-of-the-art deepfake detection system built with PyTorch and EfficientNet
 
 - 👨‍💻 [T RAHUL SINGH](https://github.com/TRahulsingh)
 - 🧑‍💻 [Mallikarjun Macherla](https://github.com/Mallikarjun-Macherla)
-- 🧑‍💻 [Prakash Madasu](https://github.com/sainathch45/)
+- 🧑‍💻 [Sainath](https://github.com/sainathch45/)
 
 ---
 
